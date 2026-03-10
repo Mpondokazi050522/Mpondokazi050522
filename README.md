@@ -61,7 +61,7 @@ Focus: **logic design, structured code, and system functionality**.
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mpondokazi050522&theme=github-compact" />
@@ -69,7 +69,7 @@ Focus: **logic design, structured code, and system functionality**.
 
 ---
 
-## 📫 Contact
+## Contact
 
 📧 [mncotshosonwabile@gmail.com](mailto:mncotshosonwabile@gmail.com)
 Johannesburg, South Africa
