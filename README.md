@@ -17,7 +17,13 @@ I’m passionate about **IT infrastructure, systems, and C# development**, and I
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,github,vscode,html,css" />
+</p>
+
+## Data & Business Intelligence
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 </p>
 
 **Core Skills**
@@ -45,6 +51,13 @@ C# console application simulating a **VHS/DVD rental store loyalty system**.
 
 Focus: **logic design, structured code, and system functionality**.
 
+---
+
+## GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mpondokazi050522&show_icons=true&theme=light" />
+  <img src="https://streak-stats.demolab.com/?user=Mpondokazi050522&theme=light" />
+</p>
 
 ---
 
